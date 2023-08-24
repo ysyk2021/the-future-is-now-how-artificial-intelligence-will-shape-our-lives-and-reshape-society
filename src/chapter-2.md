@@ -1,5 +1,3 @@
-Chapter 2: Background and Fundamentals of Artificial Intelligence
-=================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field that is transforming the way we live and work. In this chapter, we will provide an overview of the background and fundamentals of AI, including its history, types of AI, and machine learning techniques.
 

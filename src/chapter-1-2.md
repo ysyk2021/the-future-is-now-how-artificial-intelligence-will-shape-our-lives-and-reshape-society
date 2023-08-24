@@ -1,5 +1,3 @@
-Purpose of the Book
-============================================
 
 The purpose of this book, "The Future Is Now: How Artificial Intelligence Will Shape Our Lives and Reshape Society," is to provide a comprehensive overview of the current state and future potential of artificial intelligence (AI).
 

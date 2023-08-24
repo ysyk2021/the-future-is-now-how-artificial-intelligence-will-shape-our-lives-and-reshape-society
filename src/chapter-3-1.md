@@ -1,5 +1,3 @@
-Examples of AI Applications Today
-=================================================================
 
 Artificial intelligence (AI) is rapidly transforming industries and sectors across society, from healthcare and finance to transportation and retail. In this chapter, we will explore some of the most exciting and innovative AI applications being used today.
 

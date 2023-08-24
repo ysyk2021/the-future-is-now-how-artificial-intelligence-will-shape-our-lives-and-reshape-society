@@ -1,5 +1,3 @@
-Chapter 6: Future of AI and Society
-===================================
 
 Artificial intelligence (AI) is rapidly evolving and has the potential to reshape every aspect of society. In this chapter, we will explore some of the emerging trends and potential developments in AI, as well as predictions for the future of AI and society.
 

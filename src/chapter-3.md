@@ -1,5 +1,3 @@
-Chapter 3: Current State of AI
-==============================
 
 Artificial intelligence (AI) is a rapidly evolving field that is being used in a variety of applications today. In this chapter, we will examine the current state of AI and explore some examples of AI applications currently in use.
 

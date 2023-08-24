@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Its Impact on Society
-======================================================================================
 
 Artificial intelligence (AI) is one of the most transformative and rapidly evolving fields of technology today. With applications in a wide range of industries, from healthcare and finance to manufacturing and entertainment, AI has the potential to revolutionize the way we live, work, and interact with one another.
 

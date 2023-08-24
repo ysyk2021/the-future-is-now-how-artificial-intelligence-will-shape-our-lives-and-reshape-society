@@ -1,5 +1,3 @@
-Social and Cultural Implications
-====================================================================
 
 Artificial intelligence (AI) has the potential to transform many aspects of society, including our social and cultural norms. In this chapter, we will explore the social and cultural implications of AI.
 

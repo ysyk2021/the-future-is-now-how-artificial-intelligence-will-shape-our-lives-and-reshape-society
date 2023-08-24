@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) is transforming our world at an unprecedented pace, impacting everything from the way we work and communicate to the way we think about ethics and morality. In this book, we explore the ways in which AI is already shaping our lives and reshaping society, as well as the opportunities and challenges associated with these changes.
 

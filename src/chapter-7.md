@@ -1,5 +1,3 @@
-Chapter 7: Case Studies of AI in Society
-========================================
 
 Artificial intelligence (AI) has the potential to transform many aspects of society, and its successful implementation in various domains provides examples of its benefits. In this chapter, we will explore case studies of successful AI implementations in different domains.
 

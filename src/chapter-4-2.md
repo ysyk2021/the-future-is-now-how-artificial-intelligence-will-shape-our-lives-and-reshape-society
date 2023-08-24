@@ -1,5 +1,3 @@
-Economic Disruption and Job Losses
-======================================================================
 
 Artificial intelligence (AI) is disrupting traditional economic structures, leading to concerns about job losses and economic displacement. In this chapter, we will explore the ways in which AI is impacting the economy and discuss the potential consequences for individuals and society as a whole.
 

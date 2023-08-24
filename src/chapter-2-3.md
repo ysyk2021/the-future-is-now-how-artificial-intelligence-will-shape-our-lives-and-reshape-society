@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 Artificial intelligence (AI) is a rapidly evolving field, with machine learning techniques at its core. In this chapter, we will provide an overview of the background and fundamentals of AI, with a focus on machine learning techniques.
 

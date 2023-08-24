@@ -1,5 +1,3 @@
-Legal Framework
-===================================================================
 
 Artificial intelligence (AI) has immense potential to revolutionize our lives, but it also presents a range of challenges and risks. In this chapter, we will explore the legal framework around AI and how it can address these challenges.
 
