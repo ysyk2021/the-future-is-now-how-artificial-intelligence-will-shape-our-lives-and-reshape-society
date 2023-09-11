@@ -1,5 +1,4 @@
-Chapter 4: Types of Artificial Intelligence
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various types of artificial intelligence (AI) and the distinctions that characterize each type, highlighting their unique capabilities and applications.
 

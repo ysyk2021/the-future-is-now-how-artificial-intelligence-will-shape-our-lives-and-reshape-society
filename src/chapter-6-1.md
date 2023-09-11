@@ -1,5 +1,4 @@
-Chapter 8: Emerging Trends and Potential Developments
-=====================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the emerging trends and potential developments in the field of artificial intelligence (AI) and its profound impact on society. As AI technologies continue to evolve, it is essential to anticipate the trends that will shape our future.
 

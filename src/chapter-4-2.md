@@ -1,5 +1,4 @@
-Chapter 5: Economic Disruption and Job Losses
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the profound impact of artificial intelligence (AI) on our economy and the inevitable job disruptions that come with it. As AI technologies continue to advance, they are reshaping industries and changing the nature of work. While AI brings about numerous benefits, it also raises important questions and challenges regarding employment and economic stability.
 

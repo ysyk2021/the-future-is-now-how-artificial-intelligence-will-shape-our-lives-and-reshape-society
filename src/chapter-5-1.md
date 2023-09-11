@@ -1,5 +1,4 @@
-Chapter 6: Data Privacy and Security Concerns
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical issues surrounding data privacy and security in the context of artificial intelligence (AI) and its pervasive influence on society. As AI continues to evolve and integrate into our daily lives, safeguarding data privacy and security becomes an increasingly pressing concern.
 

@@ -1,5 +1,4 @@
-Chapter 6: Legal Framework
-==========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As artificial intelligence (AI) continues to influence diverse sectors, the necessity for a comprehensive legal framework to govern its use becomes increasingly paramount. This chapter will explore the evolving legal landscape surrounding AI, the challenges posed, and potential solutions to ensure the responsible and ethical deployment of these technologies.
 

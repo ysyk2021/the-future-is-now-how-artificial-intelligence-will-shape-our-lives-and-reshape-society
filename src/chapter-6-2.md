@@ -1,5 +1,4 @@
-Chapter 7: Predictions for the Future of AI and Society
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into some compelling predictions for the future of artificial intelligence (AI) and its profound impact on society. As AI continues to advance rapidly, its role in shaping our lives and reshaping various aspects of society becomes increasingly significant.
 

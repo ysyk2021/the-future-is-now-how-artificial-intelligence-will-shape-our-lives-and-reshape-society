@@ -1,5 +1,4 @@
-Chapter 5: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical ethical considerations surrounding the ever-evolving landscape of artificial intelligence (AI). As AI technologies continue to advance and integrate into our lives, it becomes paramount to address the ethical dilemmas and challenges they pose.
 

@@ -1,5 +1,4 @@
-Chapter 7: Examples of AI Applications Today
-============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore real-world examples of artificial intelligence (AI) applications that are currently shaping our lives and society. These applications demonstrate the wide-ranging impact of AI across various industries and domains.
 
